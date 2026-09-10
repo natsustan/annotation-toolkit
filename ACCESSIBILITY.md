@@ -27,7 +27,7 @@ The [Getting started guide](./basics/getting-started.md) explains these options.
 
 ## Report an accessibility issue
 
-Report barriers through the [public issue tracker](https://github.com/github/annotation-toolkit/issues). Include the affected component or documentation page, the task, and a written explanation of what blocks or complicates it.
+Report any issues through the [public issue tracker](https://github.com/github/annotation-toolkit/issues). Include the affected component or documentation page, the task, and a written explanation of what blocks or complicates it.
 
 Screenshots, recordings, and details about Figma, the browser, operating system, or assistive technology are optional. Do not include confidential designs or medical information in public reports.
 
