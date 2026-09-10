@@ -56,6 +56,7 @@ For GitHub staff, the "Annotation Toolkit" is enabled in the Figma Asset  panel 
 ### Toolkit basics
 - [Features](basics/features.md) - What's in the Toolkit?
 - [Getting Started](basics/getting-started.md) - How to use the Annotation Toolkit components
+- [Accessibility](./ACCESSIBILITY.md) - Figma support, library design choices, and known barriers
 
 ### Deep dives and training
 - [Annotation Theory](deep-dives/annotation-theory.md) - What annotations are and how they can transform our work
